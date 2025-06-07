@@ -1,3 +1,38 @@
+
+解决留学生学历认证各种疑难杂症 | 多年老牌学历认证机构
+
+留学生学历认证的老牌机构，拥有专业优质的认证老师以及认真负责海外留学归来的课程顾问团队
+
+留学生提供以下服务专业为留学生办理毕业证实体公司值得信赖。招聘中介代理，长期专业为留学生解决毕业难
+
+的问题专业靠谱。海外 学历 认证。留信 认证。服务: 申请英国硕士, 解决毕业困难问题, 学位学历认证。
+
+国外学历学位认证为贯彻国家支持留学、鼓励回国、来去自由的政策，满足广大留学生回国人员及其他海外、外
+
+国学位获得者在中国升学、就业、申请科研基金等依据而针对留学 ...
+
+**+++ 官方频道：https://t.me/xuelibulu8**
+
+**+++ TG频道：https://t.me/xuelibulu8**
+
+**+++ 飞机频道：https://t.me/xuelibulu8**
+
+**+++ 复制频道：@xuelibulu8**
+
+[[image http://dj5801.com/g.png]]
+
+[[html]]
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17154940159"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17154940159');
+</script>
+[[/html]]
+
 # GitHub Pages
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
